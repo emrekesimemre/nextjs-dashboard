@@ -1,7 +1,6 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 
-export const experimenral_ppr = true;
 
 export default function RootLayout({
   children,
